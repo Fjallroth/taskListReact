@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "Change current tarif (probably in bug)",
+      "day": "",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "watch the full course about react 2021",
+      "day": "",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Still sun from codepen ",
+      "day": "https://codepen.io/irshadav/pen/GRwKRZ",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Eat lunch",
+      "day": "today",
+      "reminder": true,
+      "id": 6
+    }
+  ]
+}
